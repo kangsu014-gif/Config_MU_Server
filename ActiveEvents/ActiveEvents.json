@@ -1,0 +1,72 @@
+[
+    {
+        "nActID": 1,
+        "sActIcon": 1,
+        "nActNeedServerDay": 0,
+        "nActStartDate": "2025-8-24 00:00:00",
+        "nActEndDate": "2025-8-30 00:00:00",
+        "bOpenRecharge": 1,
+        "bOpenConsum": 1,
+        "bOpenCharm": 1,
+        "nRechargeRankSettleCycle": 1,
+        "nConsumRankSettleCycle": 1,
+        "nCharmRankSettleCycle": 1,
+        "nLotteryID": 0
+    },
+    {
+        "nActID": 2,
+        "sActIcon": 1,
+        "nActNeedServerDay": 0,
+        "nActStartDate": "2023-12-9 00:00:00",
+        "nActEndDate": "2023-12-16 00:00:00",
+        "bOpenRecharge": 1,
+        "bOpenConsum": 0,
+        "bOpenCharm": 0,
+        "nRechargeRankSettleCycle": 1,
+        "nConsumRankSettleCycle": 0,
+        "nCharmRankSettleCycle": 0,
+        "nLotteryID": 0
+    },
+    {
+        "nActID": 3,
+        "sActIcon": 1,
+        "nActNeedServerDay": 0,
+        "nActStartDate": "2024-1-6 00:00:00",
+        "nActEndDate": "2024-1-16 00:00:00",
+        "bOpenRecharge": 1,
+        "bOpenConsum": 0,
+        "bOpenCharm": 0,
+        "nRechargeRankSettleCycle": 0,
+        "nConsumRankSettleCycle": 0,
+        "nCharmRankSettleCycle": 0,
+        "nLotteryID": 0
+    },
+    {
+        "nActID": 4,
+        "sActIcon": 1,
+        "nActNeedServerDay": 0,
+        "nActStartDate": "2024-5-1 00:00:00",
+        "nActEndDate": "2024-5-11 00:00:00",
+        "bOpenRecharge": 1,
+        "bOpenConsum": 0,
+        "bOpenCharm": 0,
+        "nRechargeRankSettleCycle": 0,
+        "nConsumRankSettleCycle": 0,
+        "nCharmRankSettleCycle": 0,
+        "nLotteryID": 0
+    },
+    {
+        "nActID": 5,
+        "sActIcon": 1,
+        "nActNeedServerDay": 0,
+        "nActStartDate": "2024-5-20 18:00:00",
+        "nActEndDate": "2024-5-25 18:00:00",
+        "bOpenRecharge": 1,
+        "bOpenConsum": 0,
+        "bOpenCharm": 0,
+        "nRechargeRankSettleCycle": 0,
+        "nConsumRankSettleCycle": 0,
+        "nCharmRankSettleCycle": 0,
+        "nLotteryID": 1
+    }
+]

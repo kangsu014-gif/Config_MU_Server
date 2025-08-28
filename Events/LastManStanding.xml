@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == X10 MUONLINE SERVER EMULATOR
+// == www.igcn.mu
+// == www.muemu.pl
+// == (C) 2017 IGC-Network | MUEMU (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of MUEMU MuOnline Server files.
+// ============================================================
+//
+// ### LastManStanding ###
+//	Enable: Determines whether the event is active or not, 0/1
+//	DieCount: Count of deaths during the event to get kicked out from it
+//	MinPlayers: Minimum count of players participating the event to start it
+//	MaxPlayers: Maximum count of players per room that can participate the event
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ Minimum level to participate the event is 7
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// 
+// ### LastManStanding::Event ###
+//	Duration: Event play time, minutes
+//	MapNumber: The map number the event runs on
+//	StartX: The Start X coordinate of entire event area
+//	StartY: The Start Y coordinate of entire event area
+//	EndX: The End X coordinate of entire event area
+//	EndY: The End Y coordinate of entire event area
+//
+// ### LastMandStanding::Registration ###
+//	Time: The time to register for the event from the initial announce, minutes
+//	MapNumber: Map Number to spawn the registration NPC on
+//	NPCIndex: Index of Event Registration NPC
+//	PosX: The X coordinate of the Registration NPC
+//	PosY: The Y coordinate of the Registration NPC
+//	Dir: Direction the Registration NPC looks at after spawn
+//		~ 0: Central
+//		~ 1: South-West
+//		~ 2: South
+//		~ 3: South-East
+//		~ 4: East
+//		~ 5: North-East
+//		~ 6: North
+//		~ 7: North-West
+//		~ 8: West
+//		~ -1: Random
+//
+//	ReqMoney: Amount of Money (Zen) to register for the event
+//	ReqSpecialItem: Defines if a special item is required prior to register to the event, 0/1
+//	SpecialItemCount: Count of special items required, ignored if ReqSpecialItem is set to 0
+//	ItemCat: Category of the special item required for registration, refer to IGC_ItemLisr.xml, ignored if ReqSpecialItem is set to 0
+//	ItemIndex: Index of the special item required for registration, refer to IGC_ItemLisr.xml, ignored if ReqSpecialItem is set to 0
+//
+// ### LastManStanding::Schedule::Start ###
+//	Hour: Start hour of the event, 0-23
+//	Minute: Start minute of the event, 0-59
+//
+// ### LastManStanding::Schedule::Buff ###
+//	Minute: Start minute of the event from activity 0-59
+//	BuffID: buff config id
+//	Radius: safe area radius
+//
+// ### LastManStanding::RoomSettings::Room ###
+//	MinReset: Minimum count of resets to qualify for specified room
+//	MaxReset: Maximum count of resets to qualify for specified room
+//	MapNumber: Map number the room is located on
+//	StartX: The Start X coordinate of specified room
+//	StartY: The Start Y coordinate of specified room
+//	EndX: The End X coordinate of specified room
+//	EndY: The End Y coordinate of specified room
+//  CentralX The center X coordinate of specified room
+//  CentralY The center Y coordinate of specified room
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->	
+
+<LastManStanding Enable="1" DieCount="1" MinPlayers="2" MaxPlayers="500">
+	<Event Duration="5" MapNumber="103" StartX="146" StartY="78" EndX="160" EndY="60" DieMoveIndex = "2" />
+	<Registration Time="5" MapNumber="0" NPCIndex="258" PosX="140" PosY="147" Dir="-1" ReqMoney="1000000" ReqSpecialItem="0" SpecialItemCount="1" ItemCat="14" ItemIndex="160" />
+
+	<Schedule>
+		<Start Hour="11" Minute="0" />
+		<Start Hour="19" Minute="0" />
+
+		<Buff Index = "1" Minute="2" BuffID="300" Radius="67" />
+		<Buff Index = "2" Minute="4" BuffID="301" Radius="44" />
+		<Buff Index = "3" Minute="6" BuffID="302" Radius="34" />
+		<Buff Index = "4" Minute="7" BuffID="303" Radius="23" />		
+		<Buff Index = "5" Minute="8" BuffID="304" Radius="11" />
+		<Buff Index = "6" Minute="9" BuffID="305" Radius="5" />
+		<Buff Index = "7" Minute="10" BuffID="306" Radius="0" />
+	</Schedule>
+
+
+
+
+
+	<Reward>
+		<RankReward Rank="1" PriceId="24013,24014" PriceNum="1,1" />
+
+		
+		<Credit Minute="0" Score="0" />
+		<Credit Minute="1" Score="2" />
+		<Credit Minute="2" Score="4" />
+		<Credit Minute="3" Score="6" />
+		<Credit Minute="4" Score="8" />
+		<Credit Minute="5" Score="10" />
+		<Credit Minute="6" Score="11" />
+		<Credit Minute="7" Score="12" />
+		<Credit Minute="8" Score="13" />
+		<Credit Minute="9" Score="14" />
+		<Credit Minute="10" Score="15" />
+		<Credit Minute="11" Score="16" />
+		<Credit Minute="12" Score="16" />
+		<Credit Minute="13" Score="17" />
+		<Credit Minute="14" Score="17" />
+		<Credit Minute="15" Score="18" />
+		<Credit Minute="16" Score="18" />
+		<Credit Minute="17" Score="19" />
+		<Credit Minute="18" Score="19" />
+		<Credit Minute="19" Score="20" />
+		<Credit Minute="20" Score="20" />
+		<Credit Minute="21" Score="21" />
+		<Credit Minute="22" Score="21" />
+		<Credit Minute="23" Score="22" />
+		<Credit Minute="24" Score="22" />
+		<Credit Minute="25" Score="23" />
+		<Credit Minute="26" Score="23" />
+		<Credit Minute="27" Score="24" />
+		<Credit Minute="28" Score="24" />
+		<Credit Minute="29" Score="25" />
+		<Credit Minute="30" Score="25" />
+	</Reward>
+	<RoomSettings>
+		<Room MinReset="0"  MaxReset="100" MapNumber="103" StartX="7"  StartY="70" EndX="15"  EndY="97" CentralX="105" CentralY="113"/> <!-- Arena Room 1 -->
+		<!--Room MinReset="101" MaxReset="200" MapNumber="103" StartX="99"  StartY="205" EndX="105" EndY="222"  CentralX="0" CentralY="0"/--> <!-- Arena Room 2 -->
+	</RoomSettings>
+</LastManStanding>

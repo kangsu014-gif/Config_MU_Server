@@ -1,0 +1,19 @@
+Items		- 物品
+Lottery		- 抽奖
+lua		- lua脚本
+Monster		- 怪物
+Mounts		- 坐骑
+Move		- 场景切换/移动
+Npc		- npc配置
+Pet		- 宠物
+Quest		- 任务
+SafeArea		- 安全区
+Shop		- npc商店中的商品
+Skill		- 技能
+SpawnPoint	- 怪物/npc出生点
+Tarrain		- 地形文件
+
+GameServerInfo.ini		- 服务器启动配置
+GameServerInfo_Attribute.ini	- 属性配置
+GameServerInfo_Game.ini	- 游戏玩法/规则配置
+GameServerInfo_Item.ini	- 物品相关配置

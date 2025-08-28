@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+### 赤色要塞 ###
+启用：启用或禁用事件，0/10
+MinPlayer：参与活动以启动活动的最小玩家
+MaxEnterCount：事件的每日条目数
+###赤色要塞 时间 ###
+StartIn：从开放时间开始混沌城堡的时间，分钟
+Duration：事件持续时间，分钟
+TownSpawn：完成活动后将玩家转移到城镇的时间，分钟
+### 赤色要塞 贡献点 ###
+MonsterKill：活动期间击杀怪物可获得的贡献点数
+玩家击杀：活动期间玩家击杀的贡献点数
+StatueDestroy：赢得活动可获得的贡献点数
+### 赤色要塞 MasteryRewardPoint ###
+Minor：获得 Minor Box 奖励资格的贡献点数
+标准：获得标准箱奖励的贡献点数
+Greater：获得 Greater Box 奖励的贡献点数
+### 赤色要塞 EventSchedule：开始 ###
+时间：活动开始时间，0-23
+分钟：事件开始分钟，0-60
+### 赤色要塞 ###
+级别：配置适用的事件级别
+MinLevel：允许进入指定事件级别的玩家的最低级别
+MaxLevel：允许进入指定事件级别的玩家的最高级别
+### 混沌城堡：：RewardExpSettings：：城堡 ###
+级别：事件的级别，从 0 开始计数
+乘数：奖励经验值的乘数（完成活动后获得）
+-->
+
+<ChaosCastle Enable="1" MinPlayer="2" MaxEnterCount="4">
+	<Time StartIn="5" Duration="30" TownSpawn="1" />
+	<ContributionPoint MonsterKill="1" PlayerKill="5" Winning="20" />
+	<MasteryRewardPoint Minor="50" Standard="75" Greater="125" />
+	
+	<!-- <EventSchedule>
+		<Start Hour="1"  Minute="10" />
+		<Start Hour="11" Minute="57" />
+		<Start Hour="15" Minute="0" />
+		<Start Hour="16" Minute="30" />
+		<Start Hour="17" Minute="40" />
+		<Start Hour="20" Minute="15" />
+		<Start Hour="22" Minute="35" />
+		<Start Hour="23" Minute="0" />
+		<Start Hour="13" Minute="45" />
+	</EventSchedule> -->
+
+	<RewardExpSettings>
+		<Castle Level="0" Multiplier="1.0" /> <!-- Chaos Castle 1 -->
+		<Castle Level="1" Multiplier="1.0" /> <!-- Chaos Castle 2 -->
+		<Castle Level="2" Multiplier="1.0" /> <!-- Chaos Castle 3 -->
+		<Castle Level="3" Multiplier="1.0" /> <!-- Chaos Castle 4 -->
+		<Castle Level="4" Multiplier="1.0" /> <!-- Chaos Castle 5 -->
+		<Castle Level="5" Multiplier="1.0" /> <!-- Chaos Castle 6 -->
+		<Castle Level="6" Multiplier="1.0" /> <!-- Chaos Castle 7 -->
+	</RewardExpSettings>
+</ChaosCastle>

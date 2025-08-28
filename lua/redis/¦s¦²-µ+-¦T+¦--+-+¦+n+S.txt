@@ -1,0 +1,1 @@
+EVAL "local x = redis.call('keys','game.entity.*') redis.call('del',unpack(x))" 0
