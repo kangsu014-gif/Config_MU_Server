@@ -1,0 +1,58 @@
+<?xml version="10" encoding="utf-8"?>
+<Reset MaxInDay="3">
+	<Normal>
+		<Item NumMin="1" NumMax="10" Point="300" RequireLevel="190" Zen="1000000"/>
+		<Item NumMin="11" NumMax="20" Point="250" RequireLevel="200" Zen="2000000"/>
+		<Item NumMin="21" NumMax="30" Point="200" RequireLevel="210" Zen="3000000"/>
+		<Item NumMin="31" NumMax="40" Point="220" RequireLevel="230" Zen="2000000"/>
+		<Item NumMin="41" NumMax="50" Point="200" RequireLevel="240" Zen="2000000"/>
+		<Item NumMin="51" NumMax="60" Point="150" RequireLevel="260" Zen="4000000"/>
+		<Item NumMin="61" NumMax="80" Point="150" RequireLevel="270" Zen="4000000"/>
+		<Item NumMin="81" NumMax="100" Point="150" RequireLevel="290" Zen="4000000"/>
+		<Item NumMin="101" NumMax="120" Point="120" RequireLevel="310" Zen="5000000"/>
+		<Item NumMin="121" NumMax="150" Point="120" RequireLevel="340" Zen="5000000"/>
+		<Item NumMin="151" NumMax="200" Point="120" RequireLevel="350" Zen="5000000"/>
+		<Item NumMin="201" NumMax="250" Point="100" RequireLevel="360" Zen="6000000"/>
+		<Item NumMin="251" NumMax="280" Point="100" RequireLevel="370" Zen="6000000"/>
+		<Item NumMin="281" NumMax="300" Point="100" RequireLevel="375" Zen="6000000"/>
+		<Item NumMin="301" NumMax="320" Point="80" RequireLevel="380" Zen="7000000"/>
+		<Item NumMin="321" NumMax="350" Point="80" RequireLevel="390" Zen="7000000"/>
+		<Item NumMin="351" NumMax="370" Point="80" RequireLevel="400" Zen="7000000"/>
+		<Item NumMin="371" NumMax="390" Point="80" RequireLevel="400" Zen="7000000"/>
+		<Item NumMin="391" NumMax="400" Point="80" RequireLevel="400" Zen="7000000"/>
+	</Normal>
+	<Vip>
+		<Item NumMin="1" NumMax="10" Point="300" RequireLevel="180" Gold="100"/>
+		<Item NumMin="11" NumMax="20" Point="250" RequireLevel="190" Gold="100"/>
+		<Item NumMin="21" NumMax="30" Point="200" RequireLevel="200" Gold="100"/>
+		<Item NumMin="31" NumMax="40" Point="220" RequireLevel="220" Gold="100"/>
+		<Item NumMin="41" NumMax="50" Point="200" RequireLevel="230" Gold="100"/>
+		<Item NumMin="51" NumMax="60" Point="150" RequireLevel="250" Gold="100"/>
+		<Item NumMin="61" NumMax="80" Point="150" RequireLevel="260" Gold="100"/>
+		<Item NumMin="81" NumMax="100" Point="150" RequireLevel="280" Gold="100"/>
+		<Item NumMin="101" NumMax="120" Point="120" RequireLevel="300" Gold="200"/>
+		<Item NumMin="121" NumMax="150" Point="120" RequireLevel="330" Gold="200"/>
+		<Item NumMin="151" NumMax="200" Point="120" RequireLevel="340" Gold="200"/>
+		<Item NumMin="201" NumMax="250" Point="100" RequireLevel="350" Gold="200"/>
+		<Item NumMin="251" NumMax="280" Point="100" RequireLevel="360" Gold="200"/>
+		<Item NumMin="281" NumMax="300" Point="100" RequireLevel="365" Gold="200"/>
+		<Item NumMin="301" NumMax="320" Point="80" RequireLevel="370" Gold="300"/>
+		<Item NumMin="321" NumMax="350" Point="80" RequireLevel="380" Gold="300"/>
+		<Item NumMin="351" NumMax="370" Point="80" RequireLevel="390" Gold="300"/>
+		<Item NumMin="371" NumMax="390" Point="80" RequireLevel="390" Gold="300"/>
+		<Item NumMin="391" NumMax="400" Point="80" RequireLevel="390" Gold="300"/>
+	</Vip>
+
+	<ReLife>
+		<Item Num="1" RequireReset="400" RequireLevel="400" Point="30000" Zen="100000000" Gold="5000"/>
+		<Item Num="2" RequireReset="400" RequireLevel="400" Point="55000" Zen="200000000" Gold="5000"/>
+		<Item Num="3" RequireReset="400" RequireLevel="400" Point="75000" Zen="300000000" Gold="5000"/>
+		<Item Num="4" RequireReset="400" RequireLevel="400" Point="90000" Zen="400000000" Gold="5000"/>
+		<Item Num="5" RequireReset="400" RequireLevel="400" Point="115000" Zen="500000000" Gold="5000"/>
+		<Item Num="6" RequireReset="400" RequireLevel="400" Point="130000" Zen="600000000" Gold="5000"/>
+		<Item Num="7" RequireReset="400" RequireLevel="400" Point="145000" Zen="700000000" Gold="5000"/>
+		<Item Num="8" RequireReset="400" RequireLevel="400" Point="160000" Zen="800000000" Gold="5000"/>
+		<Item Num="9" RequireReset="400" RequireLevel="400" Point="175000" Zen="900000000" Gold="5000"/>
+		<Item Num="10" RequireReset="400" RequireLevel="400" Point="190000" Zen="1000000000" Gold="5000"/>
+	</ReLife>
+</Reset>

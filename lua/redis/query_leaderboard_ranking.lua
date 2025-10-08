@@ -1,15 +1,26 @@
 -- 查询排行榜脚本
 
+-- -- 排行榜类型
+-- local type = tonumber(ARGV[1])
+-- -- 最小排名
+-- local min_rank = tonumber(ARGV[2])
+-- -- 最大排名
+-- local max_rank = tonumber(ARGV[3])
+-- -- 最大的数据条数 -1:不限制
+-- local max_data_num = tonumber(ARGV[4])
+-- -- 分数是否重复 0:不重复 1:重复
+-- local repeat_score = tonumber(ARGV[5])
+local d = tonumber(ARGV[1])
 -- 排行榜类型
-local type = tonumber(ARGV[1])
+local type = tonumber(ARGV[2])
 -- 最小排名
-local min_rank = tonumber(ARGV[2])
+local min_rank = tonumber(ARGV[3])
 -- 最大排名
-local max_rank = tonumber(ARGV[3])
+local max_rank = tonumber(ARGV[4])
 -- 最大的数据条数 -1:不限制
-local max_data_num = tonumber(ARGV[4])
+local max_data_num = tonumber(ARGV[5])
 -- 分数是否重复 0:不重复 1:重复
-local repeat_score = tonumber(ARGV[5])
+local repeat_score = tonumber(ARGV[6])
 
 -- 获取有序集合中所有分数
 local function get_all_scores(key)
@@ -135,7 +146,15 @@ local ranking_type = {
     [2] = "Kill",
     [3] = "Hunt"
 }
-local key = "LeaderBoard:Ranking:".. ranking_type[type]
+
+local key = "LeaderBoard:" ..tostring(d)..":".."Ranking:".. ranking_type[type]
+redis.call("HMSET", "debug:vars",
+    "key", key,
+    "type", tostring(type),
+    "min_rank", tostring(min_rank),
+    "max_rank", tostring(max_rank),
+    "repeat_score", tostring(repeat_score)
+)
 
 if(repeat_score == 0) then
     return get_ranking_info_not_repeat_score(key, min_rank, max_rank, max_data_num)

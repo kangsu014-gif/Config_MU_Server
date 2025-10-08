@@ -1,1 +1,12 @@
-[{"RefreshID": 1, "sServerLine": "[0,2]", "Week": "[5]", "Time": 20, "BossID": "[542]", "FreshType": 1, "RefrshNotice": "\"Golden Fire Dragon King xuất hiện tại Ice Wind Valley! Mời các dũng sĩ đến tiêu diệt!\""}, {"RefreshID": 2, "sServerLine": "[1]", "Week": "[5,0]", "Time": 20, "BossID": "[542,543,544]", "FreshType": 1, "RefrshNotice": "\"Golden Fire Dragon King xuất hiện tại Ice Wind Valley, Brave Frontier, Fairy Forest! Mời các dũng sĩ đến tiêu diệt!\""}]
+[
+    {
+        "RefreshID": 1,
+        "sServerLine": "[0,2]",
+        "Week": "[1,2,3,4,5,6,0]",
+        "Time": 12,
+        "BossID": "[542,221]",
+        "FreshType": 1,
+        "RefrshNotice": "\"Golden Fire Dragon King xuất hiện tại Ice Wind Valley! Mời các dũng sĩ đến tiêu diệt!\""
+    }
+    
+]

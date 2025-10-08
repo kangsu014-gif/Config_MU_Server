@@ -1,1 +1,32 @@
-[{"Index":1,"Name":"10:40:00-11:10:00","OpenHour":10,"OpenMin":40,"OpenSec":0,"CloseHour":11,"CloseMin":10,"CloseSec":0},{"Index":2,"Name":"15:40:00-16:10:00","OpenHour":15,"OpenMin":40,"OpenSec":0,"CloseHour":16,"CloseMin":10,"CloseSec":0},{"Index":3,"Name":"19:40:00-20:10:00","OpenHour":19,"OpenMin":40,"OpenSec":0,"CloseHour":20,"CloseMin":10,"CloseSec":0}]
+[
+  {
+    "Index": 1,
+    "Name": "10:40:00-11:10:00",
+    "OpenHour": 10,
+    "OpenMin": 40,
+    "OpenSec": 0,
+    "CloseHour": 11,
+    "CloseMin": 10,
+    "CloseSec": 0
+  },
+  {
+    "Index": 2,
+    "Name": "15:40:00-16:10:00",
+    "OpenHour": 15,
+    "OpenMin": 40,
+    "OpenSec": 0,
+    "CloseHour": 16,
+    "CloseMin": 10,
+    "CloseSec": 0
+  },
+  {
+    "Index": 3,
+    "Name": "19:40:00-20:10:00",
+    "OpenHour": 19,
+    "OpenMin": 40,
+    "OpenSec": 0,
+    "CloseHour": 20,
+    "CloseMin": 10,
+    "CloseSec": 0
+  }
+]

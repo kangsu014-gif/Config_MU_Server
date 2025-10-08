@@ -1,9 +1,9 @@
 -- 查询排行榜脚本
-
+local d = tonumber(ARGV[1])
 -- 排行榜类型
-local type = tonumber(ARGV[1])
+local type = tonumber(ARGV[2])
 -- uuid
-local uuid = ARGV[2]
+local uuid = ARGV[3]
 
 
 -- 获取有序集合中所有分数
@@ -44,6 +44,6 @@ local ranking_type = {
     [2] = "Kill",
     [3] = "Hunt"
 }
-local key = "LeaderBoard:Ranking:".. ranking_type[type]
+local key = "LeaderBoard:"..tostring(d)..":Ranking:".. ranking_type[type]
 
 return get_rank(key, uuid)

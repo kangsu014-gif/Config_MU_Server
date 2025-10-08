@@ -29,7 +29,7 @@ MaxLevel：允许进入指定事件级别的玩家的最高级别
 乘数：奖励经验值的乘数（完成活动后获得）
 -->
 
-<ChaosCastle Enable="1" MinPlayer="2" MaxEnterCount="4">
+<ChaosCastle Enable="1" MinPlayer="1" MaxEnterCount="4">
 	<Time StartIn="5" Duration="30" TownSpawn="1" />
 	<ContributionPoint MonsterKill="1" PlayerKill="5" Winning="20" />
 	<MasteryRewardPoint Minor="50" Standard="75" Greater="125" />
