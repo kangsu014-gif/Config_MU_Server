@@ -1,0 +1,21 @@
+<?xml version="10" encoding="utf-8"?>
+<PackageAndGiftCode MaxInDay="300">
+	<Package ID="1" subject="Gói nạp 1" total_amount="10000" sycee_amount="100" pay_type="sycee_recharge" body="nhận 100 KNB"/>
+	<Package ID="2" subject="Gói nạp 2" total_amount="20000" sycee_amount="200" pay_type="sycee_recharge" body="nhận 200 KNB"/>
+	<Package ID="3" subject="Gói nạp 3" total_amount="30000" sycee_amount="300" pay_type="sycee_recharge" body="nhận 300 KNB"/>
+	<Package ID="4" subject="Gói nạp 4" total_amount="40000" sycee_amount="400" pay_type="sycee_recharge" body="nhận 400 KNB"/>
+	<Package ID="5" subject="Gói nạp 5" total_amount="50000" sycee_amount="500" pay_type="sycee_recharge" body="nhận 500 KNB"/>
+	<Package ID="6" subject="Gói nạp 6" total_amount="100000" sycee_amount="1000" pay_type="sycee_recharge" body="nhận 1000 KNB"/>
+	<Package ID="7" subject="Gói nạp 7" total_amount="1000000" sycee_amount="10000" pay_type="sycee_recharge" body="nhận 10000 KNB"/>
+	<Package ID="8" subject="Gói nạp 8" total_amount="1000000" sycee_amount="100000" pay_type="sycee_recharge" body="nhận 100000 KNB"/>
+	<Package ID="9" subject="Gói kích hoạt line an toàn" total_amount="50" sycee_amount="1" pay_type="safeline_recharge" body="Kích hoạt line an toàn"/>
+	<Package ID="10" subject="Gói kích hoạt line vàng" total_amount="100" sycee_amount="1" pay_type="goldline_recharge" body="Kích hoạt line vàng"/>
+	<Package ID="11" subject="Gói kích hoạt thẻ tháng" total_amount="200000" sycee_amount="1" pay_type="point_card_recharge" body="kích hoạt thẻ tháng"/>
+	<Package ID="12" subject="Gói ucoin 1" total_amount="200000" sycee_amount="2500" pay_type="ucoin_recharge" body="Ucoin"/>
+	<Package ID="13" subject="Gói ucoin 2" total_amount="200000" sycee_amount="2500" pay_type="ucoin_recharge" body="Ucoin"/>
+	<Package ID="14" subject="Gói ucoin 3" total_amount="400000" sycee_amount="5000" pay_type="ucoin_recharge" body="Ucoin"/>
+	<Package ID="15" subject="Gói ucoin 4" total_amount="600000" sycee_amount="7500" pay_type="ucoin_recharge" body="Ucoin"/>
+	<Package ID="16" subject="Gói ucoin 5" total_amount="800000" sycee_amount="10000" pay_type="ucoin_recharge" body="Ucoin"/>
+	<Package ID="17" subject="Gói ucoin 6" total_amount="1000000" sycee_amount="12500" pay_type="ucoin_recharge" body="Ucoin"/>
+	<Package ID="18" subject="Gói ucoin 7" total_amount="1200000" sycee_amount="15000" pay_type="ucoin_recharge" body="Ucoin"/>
+</PackageAndGiftCode>

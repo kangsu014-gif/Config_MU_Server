@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Raklion Enabled="true" MapNumber="104" BossMapNumber="104">
+	<!-- Time Configuration (in seconds) -->
+	<Schedule>
+		<!-- Event window at 12:00 every day -->
+		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="40" Second="0"/>
+		<!-- Event window at 18:00 every day -->
+		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="38" Second="0"/>
+		<!-- Event window at 21:00 every day -->
+		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minute="25" Second="0"/>
+	</Schedule>
+	<Time
+		SelupanSkillHitDelay="1000"
+		BossAppearance="5"
+		BossZoneClose="600"
+		EventStart="14400" />
+
+	<!-- Boss Egg Configuration -->
+	<EggCount Half="10" Max="20" />
+
+	<!-- Skill Pattern Conditions (HP percentage thresholds) -->
+	<SkillPatterns
+		Pattern1="90"
+		Pattern2="80"
+		Pattern3="70"
+		Pattern4="50"
+		Pattern5="30"
+		Pattern6="10" />
+
+	<SelupanSkills>
+		<Skill Index="0" ID="3007"/>      <!-- Poison Attack -->
+		<Skill Index="1" ID="5"/>      <!-- Poison Attack -->
+		<Skill Index="2" ID="237"/>     <!-- Ice Storm -->
+		<Skill Index="3" ID="9"/>     <!-- Ice Strike -->
+		<Skill Index="4" ID="3007"/>     <!-- Summon (custom logic, not from SkillInfo.json) -->
+		<Skill Index="5" ID="2"/>    <!-- Heal -->
+		<Skill Index="6" ID="7"/>      <!-- Freeze -->
+		<Skill Index="7" ID="9"/>     <!-- Teleport -->
+		<Skill Index="8" ID="14"/>    <!-- Invincibility -->
+	</SelupanSkills>
+	<!-- Monster Spawn Configuration -->
+	<MonsterList>
+		<!-- Selupan Boss (412) -->
+		<Monster Index="412" Distance="0" StartX="147" StartY="29" Dir="1" Count="1" />
+
+		<!-- Add more monster configurations as needed -->
+	</MonsterList>
+
+	<!-- Boss Egg Spawn Points -->
+	<BossEggs>
+		<!-- Boss Eggs (3091-3093) -->
+		<Egg MonsterClass="3091" MapNumber="104" PosX="141" PosY="26" />
+		<Egg MonsterClass="3091" MapNumber="104" PosX="143" PosY="24" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="142" PosY="27" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="146" PosY="23" />
+		<Egg MonsterClass="3093" MapNumber="104" PosX="148" PosY="24" />
+		<Egg MonsterClass="3093" MapNumber="104" PosX="148" PosY="27" />
+		<Egg MonsterClass="3091" MapNumber="104" PosX="151" PosY="26" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="156" PosY="29" />
+		<Egg MonsterClass="3093" MapNumber="104" PosX="152" PosY="31" />
+		<Egg MonsterClass="3091" MapNumber="104" PosX="151" PosY="34" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="153" PosY="34" />
+		<Egg MonsterClass="3093" MapNumber="104" PosX="146" PosY="34" />
+		<Egg MonsterClass="3091" MapNumber="104" PosX="140" PosY="35" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="138" PosY="31" />
+		<Egg MonsterClass="3093" MapNumber="104" PosX="141" PosY="21" />
+		<Egg MonsterClass="3091" MapNumber="104" PosX="148" PosY="20" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="152" PosY="23" />
+		<Egg MonsterClass="3093" MapNumber="104" PosX="156" PosY="28" />
+		<Egg MonsterClass="3091" MapNumber="104" PosX="158" PosY="34" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="154" PosY="37" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="149" PosY="38" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="141" PosY="36" />
+		<Egg MonsterClass="3092" MapNumber="104" PosX="147" PosY="28" />
+
+		<Egg MonsterClass="2030" MapNumber="104" PosX="153" PosY="30" />
+		<Egg MonsterClass="2030" MapNumber="104" PosX="151" PosY="34" />
+		<Egg MonsterClass="2030" MapNumber="104" PosX="147" PosY="36" />
+		<Egg MonsterClass="516" MapNumber="104" PosX="140" PosY="27" />
+		<Egg MonsterClass="516" MapNumber="104" PosX="145" PosY="22" />
+		<Egg MonsterClass="516" MapNumber="104" PosX="152" PosY="24" />
+		<Egg MonsterClass="516" MapNumber="104" PosX="152" PosY="30" />
+	</BossEggs>
+</Raklion>

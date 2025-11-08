@@ -1,1 +1,1257 @@
-[{"Index":1,"Scene":1,"BeginX":138,"BeginY":130,"EndX":144,"EndY":137},{"Index":2,"Scene":13,"BeginX":173,"BeginY":100,"EndX":178,"EndY":117},{"Index":3,"Scene":12,"BeginX":48,"BeginY":221,"EndX":55,"EndY":225},{"Index":4,"Scene":12,"BeginX":97,"BeginY":55,"EndX":99,"EndY":57},{"Index":5,"Scene":12,"BeginX":193,"BeginY":146,"EndX":194,"EndY":147},{"Index":6,"Scene":10,"BeginX":197,"BeginY":37,"EndX":208,"EndY":47},{"Index":7,"Scene":10,"BeginX":22,"BeginY":26,"EndX":23,"EndY":27},{"Index":8,"Scene":10,"BeginX":225,"BeginY":229,"EndX":226,"EndY":230},{"Index":9,"Scene":10,"BeginX":71,"BeginY":177,"EndX":72,"EndY":178},{"Index":10,"Scene":3,"BeginX":17,"BeginY":11,"EndX":21,"EndY":16},{"Index":11,"Scene":3,"BeginX":225,"BeginY":50,"EndX":228,"EndY":52},{"Index":12,"Scene":3,"BeginX":63,"BeginY":153,"EndX":70,"EndY":163},{"Index":13,"Scene":14,"BeginX":108,"BeginY":242,"EndX":111,"EndY":247},{"Index":14,"Scene":14,"BeginX":233,"BeginY":124,"EndX":234,"EndY":125},{"Index":15,"Scene":14,"BeginX":6,"BeginY":84,"EndX":7,"EndY":85},{"Index":16,"Scene":11,"BeginX":203,"BeginY":71,"EndX":212,"EndY":80},{"Index":17,"Scene":11,"BeginX":242,"BeginY":238,"EndX":243,"EndY":239},{"Index":18,"Scene":11,"BeginX":85,"BeginY":166,"EndX":85,"EndY":167},{"Index":19,"Scene":11,"BeginX":87,"BeginY":86,"EndX":88,"EndY":87},{"Index":20,"Scene":11,"BeginX":129,"BeginY":55,"EndX":130,"EndY":55},{"Index":21,"Scene":11,"BeginX":53,"BeginY":55,"EndX":54,"EndY":55},{"Index":38,"Scene":11,"BeginX":8,"BeginY":85,"EndX":9,"EndY":86},{"Index":22,"Scene":9,"BeginX":190,"BeginY":65,"EndX":200,"EndY":70},{"Index":23,"Scene":9,"BeginX":100,"BeginY":143,"EndX":101,"EndY":144},{"Index":24,"Scene":8,"BeginX":86,"BeginY":7,"EndX":90,"EndY":11},{"Index":25,"Scene":8,"BeginX":186,"BeginY":175,"EndX":187,"EndY":176},{"Index":26,"Scene":7,"BeginX":17,"BeginY":23,"EndX":18,"EndY":24},{"Index":27,"Scene":5,"BeginX":20,"BeginY":212,"EndX":22,"EndY":219},{"Index":28,"Scene":5,"BeginX":203,"BeginY":36,"EndX":204,"EndY":37},{"Index":29,"Scene":4,"BeginX":73,"BeginY":104,"EndX":80,"EndY":107},{"Index":30,"Scene":6,"BeginX":217,"BeginY":202,"EndX":220,"EndY":207},{"Index":31,"Scene":2,"BeginX":135,"BeginY":106,"EndX":141,"EndY":111},{"Index":32,"Scene":11,"BeginX":6,"BeginY":86,"EndX":7,"EndY":87},{"Index":33,"Scene":15,"BeginX":225,"BeginY":42,"EndX":232,"EndY":46},{"Index":34,"Scene":16,"BeginX":148,"BeginY":423,"EndX":154,"EndY":428},{"Index":35,"Scene":17,"BeginX":10,"BeginY":170,"EndX":12,"EndY":172},{"Index":36,"Scene":17,"BeginX":195,"BeginY":361,"EndX":197,"EndY":363},{"Index":37,"Scene":17,"BeginX":257,"BeginY":11,"EndX":259,"EndY":13},{"Index":39,"Scene":21,"BeginX":34,"BeginY":81,"EndX":36,"EndY":83},{"Index":40,"Scene":201,"BeginX":67,"BeginY":8,"EndX":97,"EndY":20},{"Index":41,"Scene":301,"BeginX":115,"BeginY":118,"EndX":123,"EndY":126},{"Index":42,"Scene":302,"BeginX":115,"BeginY":118,"EndX":123,"EndY":126},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":100,"Scene":1,"BeginX":121,"BeginY":233,"EndX":123,"EndY":233},{"Index":101,"Scene":1,"BeginX":213,"BeginY":246,"EndX":217,"EndY":247},{"Index":102,"Scene":1,"BeginX":5,"BeginY":38,"EndX":5,"EndY":41},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":150,"Scene":1,"BeginX":122,"BeginY":232,"EndX":123,"EndY":232},{"Index":151,"Scene":1,"BeginX":214,"BeginY":244,"EndX":215,"EndY":244},{"Index":152,"Scene":1,"BeginX":6,"BeginY":40,"EndX":6,"EndY":41},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":200,"Scene":13,"BeginX":148,"BeginY":4,"EndX":155,"EndY":4},{"Index":201,"Scene":13,"BeginX":220,"BeginY":29,"EndX":225,"EndY":29},{"Index":202,"Scene":13,"BeginX":243,"BeginY":240,"EndX":243,"EndY":242},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":250,"Scene":13,"BeginX":148,"BeginY":5,"EndX":150,"EndY":5},{"Index":251,"Scene":13,"BeginX":222,"BeginY":26,"EndX":223,"EndY":26},{"Index":252,"Scene":13,"BeginX":242,"BeginY":240,"EndX":242,"EndY":241},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":300,"Scene":12,"BeginX":246,"BeginY":148,"EndX":246,"EndY":151},{"Index":301,"Scene":12,"BeginX":23,"BeginY":29,"EndX":23,"EndY":30},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":350,"Scene":12,"BeginX":234,"BeginY":149,"EndX":235,"EndY":149},{"Index":351,"Scene":12,"BeginX":24,"BeginY":29,"EndX":24,"EndY":30},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":400,"Scene":14,"BeginX":107,"BeginY":248,"EndX":110,"EndY":248},{"Index":401,"Scene":14,"BeginX":239,"BeginY":149,"EndX":239,"EndY":150},{"Index":402,"Scene":14,"BeginX":232,"BeginY":128,"EndX":233,"EndY":128},{"Index":403,"Scene":14,"BeginX":2,"BeginY":17,"EndX":2,"EndY":18},{"Index":404,"Scene":14,"BeginX":5,"BeginY":34,"EndX":6,"EndY":34},{"Index":405,"Scene":14,"BeginX":29,"BeginY":127,"EndX":30,"EndY":127},{"Index":406,"Scene":14,"BeginX":2,"BeginY":84,"EndX":2,"EndY":85},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":450,"Scene":14,"BeginX":108,"BeginY":247,"EndX":109,"EndY":247},{"Index":451,"Scene":14,"BeginX":240,"BeginY":149,"EndX":240,"EndY":150},{"Index":452,"Scene":14,"BeginX":232,"BeginY":127,"EndX":233,"EndY":127},{"Index":453,"Scene":14,"BeginX":3,"BeginY":17,"EndX":3,"EndY":18},{"Index":454,"Scene":14,"BeginX":5,"BeginY":33,"EndX":6,"EndY":33},{"Index":455,"Scene":14,"BeginX":29,"BeginY":126,"EndX":30,"EndY":126},{"Index":456,"Scene":14,"BeginX":3,"BeginY":84,"EndX":3,"EndY":85},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":500,"Scene":3,"BeginX":16,"BeginY":226,"EndX":16,"EndY":227},{"Index":501,"Scene":3,"BeginX":13,"BeginY":19,"EndX":13,"EndY":20},{"Index":502,"Scene":3,"BeginX":9,"BeginY":9,"EndX":9,"EndY":11},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":550,"Scene":3,"BeginX":17,"BeginY":226,"EndX":17,"EndY":227},{"Index":551,"Scene":3,"BeginX":14,"BeginY":19,"EndX":14,"EndY":20},{"Index":552,"Scene":3,"BeginX":10,"BeginY":10,"EndX":10,"EndY":11},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":600,"Scene":11,"BeginX":164,"BeginY":4,"EndX":165,"EndY":4},{"Index":601,"Scene":11,"BeginX":192,"BeginY":6,"EndX":192,"EndY":7},{"Index":602,"Scene":11,"BeginX":166,"BeginY":164,"EndX":167,"EndY":166},{"Index":603,"Scene":11,"BeginX":133,"BeginY":245,"EndX":134,"EndY":245},{"Index":604,"Scene":11,"BeginX":133,"BeginY":135,"EndX":134,"EndY":135},{"Index":605,"Scene":11,"BeginX":132,"BeginY":16,"EndX":132,"EndY":17},{"Index":606,"Scene":11,"BeginX":7,"BeginY":6,"EndX":7,"EndY":7},{"Index":607,"Scene":11,"BeginX":17,"BeginY":249,"EndX":18,"EndY":249},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":650,"Scene":11,"BeginX":17,"BeginY":248,"EndX":18,"EndY":248},{"Index":651,"Scene":11,"BeginX":165,"BeginY":5,"EndX":165,"EndY":6},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":700,"Scene":9,"BeginX":250,"BeginY":39,"EndX":250,"EndY":43},{"Index":701,"Scene":9,"BeginX":6,"BeginY":199,"EndX":6,"EndY":201},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":750,"Scene":9,"BeginX":249,"BeginY":42,"EndX":249,"EndY":43},{"Index":751,"Scene":9,"BeginX":7,"BeginY":199,"EndX":7,"EndY":200},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":800,"Scene":8,"BeginX":74,"BeginY":9,"EndX":74,"EndY":12},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":850,"Scene":8,"BeginX":75,"BeginY":9,"EndX":75,"EndY":10},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":900,"Scene":7,"BeginX":17,"BeginY":12,"EndX":19,"EndY":12},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":950,"Scene":7,"BeginX":17,"BeginY":13,"EndX":18,"EndY":13},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1000,"Scene":5,"BeginX":17,"BeginY":222,"EndX":19,"EndY":222},{"Index":1001,"Scene":5,"BeginX":90,"BeginY":90,"EndX":90,"EndY":91},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1050,"Scene":5,"BeginX":17,"BeginY":221,"EndX":18,"EndY":221},{"Index":1051,"Scene":5,"BeginX":84,"BeginY":90,"EndX":84,"EndY":91},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1100,"Scene":4,"BeginX":69,"BeginY":104,"EndX":69,"EndY":107},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1150,"Scene":4,"BeginX":70,"BeginY":104,"EndX":70,"EndY":105},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1200,"Scene":6,"BeginX":223,"BeginY":215,"EndX":225,"EndY":215},{"Index":1201,"Scene":6,"BeginX":171,"BeginY":22,"EndX":171,"EndY":26},{"Index":1202,"Scene":6,"BeginX":332,"BeginY":127,"EndX":338,"EndY":128},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1251,"Scene":6,"BeginX":335,"BeginY":124,"EndX":336,"EndY":125},{"Index":1252,"Scene":6,"BeginX":172,"BeginY":22,"EndX":172,"EndY":26},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1300,"Scene":2,"BeginX":139,"BeginY":124,"EndX":139,"EndY":125},{"Index":1301,"Scene":2,"BeginX":124,"BeginY":109,"EndX":124,"EndY":110},{"Index":1302,"Scene":2,"BeginX":139,"BeginY":95,"EndX":140,"EndY":95},{"Index":1303,"Scene":2,"BeginX":149,"BeginY":109,"EndX":150,"EndY":109},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1304,"Scene":2,"BeginX":185,"BeginY":188,"EndX":186,"EndY":189},{"Index":1305,"Scene":2,"BeginX":56,"BeginY":176,"EndX":56,"EndY":177},{"Index":1306,"Scene":2,"BeginX":68,"BeginY":51,"EndX":68,"EndY":52},{"Index":1307,"Scene":2,"BeginX":197,"BeginY":13,"EndX":197,"EndY":14},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1350,"Scene":2,"BeginX":189,"BeginY":190,"EndX":191,"EndY":192},{"Index":1351,"Scene":2,"BeginX":61,"BeginY":176,"EndX":63,"EndY":176},{"Index":1352,"Scene":2,"BeginX":64,"BeginY":47,"EndX":66,"EndY":49},{"Index":1353,"Scene":2,"BeginX":202,"BeginY":13,"EndX":205,"EndY":13},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1400,"Scene":10,"BeginX":245,"BeginY":34,"EndX":245,"EndY":37},{"Index":1401,"Scene":10,"BeginX":52,"BeginY":92,"EndX":54,"EndY":92},{"Index":1402,"Scene":10,"BeginX":2,"BeginY":246,"EndX":2,"EndY":247},{"Index":1403,"Scene":10,"BeginX":161,"BeginY":246,"EndX":163,"EndY":246},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1450,"Scene":10,"BeginX":244,"BeginY":34,"EndX":244,"EndY":35},{"Index":1451,"Scene":10,"BeginX":52,"BeginY":91,"EndX":54,"EndY":91},{"Index":1452,"Scene":10,"BeginX":4,"BeginY":246,"EndX":4,"EndY":247},{"Index":1453,"Scene":10,"BeginX":161,"BeginY":244,"EndX":163,"EndY":244},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1500,"Scene":100,"BeginX":14,"BeginY":9,"EndX":15,"EndY":10},{"Index":1501,"Scene":101,"BeginX":138,"BeginY":98,"EndX":139,"EndY":99},{"Index":1502,"Scene":101,"BeginX":71,"BeginY":94,"EndX":72,"EndY":95},{"Index":1503,"Scene":101,"BeginX":138,"BeginY":168,"EndX":139,"EndY":169},{"Index":1504,"Scene":101,"BeginX":68,"BeginY":157,"EndX":69,"EndY":158},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1601,"Scene":17,"BeginX":193,"BeginY":361,"EndX":194,"EndY":363},{"Index":1602,"Scene":17,"BeginX":156,"BeginY":371,"EndX":158,"EndY":372},{"Index":1603,"Scene":17,"BeginX":257,"BeginY":9,"EndX":259,"EndY":10},{"Index":1604,"Scene":17,"BeginX":197,"BeginY":49,"EndX":198,"EndY":51},{"Index":1605,"Scene":17,"BeginX":335,"BeginY":15,"EndX":336,"EndY":16},{"Index":1606,"Scene":17,"BeginX":358,"BeginY":10,"EndX":360,"EndY":10},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1651,"Scene":17,"BeginX":195,"BeginY":361,"EndX":195,"EndY":363},{"Index":1652,"Scene":17,"BeginX":156,"BeginY":374,"EndX":157,"EndY":375},{"Index":1653,"Scene":17,"BeginX":257,"BeginY":11,"EndX":259,"EndY":11},{"Index":1654,"Scene":17,"BeginX":199,"BeginY":49,"EndX":199,"EndY":51},{"Index":1655,"Scene":17,"BeginX":337,"BeginY":15,"EndX":337,"EndY":16},{"Index":1656,"Scene":17,"BeginX":358,"BeginY":11,"EndX":360,"EndY":11},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1701,"Scene":200,"BeginX":137,"BeginY":121,"EndX":138,"EndY":121},{"Index":1702,"Scene":200,"BeginX":165,"BeginY":130,"EndX":166,"EndY":130},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1801,"Scene":102,"BeginX":23,"BeginY":75,"EndX":31,"EndY":84},{"Index":0,"Scene":0,"BeginX":0,"BeginY":0,"EndX":0,"EndY":0},{"Index":1901,"Scene":103,"BeginX":40,"BeginY":78,"EndX":45,"EndY":148},{"Index":1902,"Scene":103,"BeginX":73,"BeginY":175,"EndX":138,"EndY":178},{"Index":1903,"Scene":103,"BeginX":163,"BeginY":81,"EndX":166,"EndY":143},{"Index":1904,"Scene":103,"BeginX":75,"BeginY":48,"EndX":138,"EndY":53}]
+[
+  {
+    "Index": 1,
+    "Scene": 1,
+    "BeginX": 138,
+    "BeginY": 130,
+    "EndX": 144,
+    "EndY": 137
+  },
+  {
+    "Index": 2,
+    "Scene": 13,
+    "BeginX": 173,
+    "BeginY": 100,
+    "EndX": 178,
+    "EndY": 117
+  },
+  {
+    "Index": 3,
+    "Scene": 12,
+    "BeginX": 48,
+    "BeginY": 221,
+    "EndX": 55,
+    "EndY": 225
+  },
+  {
+    "Index": 4,
+    "Scene": 12,
+    "BeginX": 97,
+    "BeginY": 55,
+    "EndX": 99,
+    "EndY": 57
+  },
+  {
+    "Index": 5,
+    "Scene": 12,
+    "BeginX": 193,
+    "BeginY": 146,
+    "EndX": 194,
+    "EndY": 147
+  },
+  {
+    "Index": 6,
+    "Scene": 10,
+    "BeginX": 197,
+    "BeginY": 37,
+    "EndX": 208,
+    "EndY": 47
+  },
+  {
+    "Index": 7,
+    "Scene": 10,
+    "BeginX": 22,
+    "BeginY": 26,
+    "EndX": 23,
+    "EndY": 27
+  },
+  {
+    "Index": 8,
+    "Scene": 10,
+    "BeginX": 225,
+    "BeginY": 229,
+    "EndX": 226,
+    "EndY": 230
+  },
+  {
+    "Index": 9,
+    "Scene": 10,
+    "BeginX": 71,
+    "BeginY": 177,
+    "EndX": 72,
+    "EndY": 178
+  },
+  {
+    "Index": 10,
+    "Scene": 3,
+    "BeginX": 17,
+    "BeginY": 11,
+    "EndX": 21,
+    "EndY": 16
+  },
+  {
+    "Index": 11,
+    "Scene": 3,
+    "BeginX": 225,
+    "BeginY": 50,
+    "EndX": 228,
+    "EndY": 52
+  },
+  {
+    "Index": 12,
+    "Scene": 3,
+    "BeginX": 63,
+    "BeginY": 153,
+    "EndX": 70,
+    "EndY": 163
+  },
+  {
+    "Index": 13,
+    "Scene": 14,
+    "BeginX": 108,
+    "BeginY": 242,
+    "EndX": 111,
+    "EndY": 247
+  },
+  {
+    "Index": 14,
+    "Scene": 14,
+    "BeginX": 233,
+    "BeginY": 124,
+    "EndX": 234,
+    "EndY": 125
+  },
+  {
+    "Index": 15,
+    "Scene": 14,
+    "BeginX": 6,
+    "BeginY": 84,
+    "EndX": 7,
+    "EndY": 85
+  },
+  {
+    "Index": 16,
+    "Scene": 11,
+    "BeginX": 203,
+    "BeginY": 71,
+    "EndX": 212,
+    "EndY": 80
+  },
+  {
+    "Index": 17,
+    "Scene": 11,
+    "BeginX": 242,
+    "BeginY": 238,
+    "EndX": 243,
+    "EndY": 239
+  },
+  {
+    "Index": 18,
+    "Scene": 11,
+    "BeginX": 85,
+    "BeginY": 166,
+    "EndX": 85,
+    "EndY": 167
+  },
+  {
+    "Index": 19,
+    "Scene": 11,
+    "BeginX": 87,
+    "BeginY": 86,
+    "EndX": 88,
+    "EndY": 87
+  },
+  {
+    "Index": 20,
+    "Scene": 11,
+    "BeginX": 129,
+    "BeginY": 55,
+    "EndX": 130,
+    "EndY": 55
+  },
+  {
+    "Index": 21,
+    "Scene": 11,
+    "BeginX": 53,
+    "BeginY": 55,
+    "EndX": 54,
+    "EndY": 55
+  },
+  {
+    "Index": 38,
+    "Scene": 11,
+    "BeginX": 8,
+    "BeginY": 85,
+    "EndX": 9,
+    "EndY": 86
+  },
+  {
+    "Index": 22,
+    "Scene": 9,
+    "BeginX": 190,
+    "BeginY": 65,
+    "EndX": 200,
+    "EndY": 70
+  },
+  {
+    "Index": 23,
+    "Scene": 9,
+    "BeginX": 100,
+    "BeginY": 143,
+    "EndX": 101,
+    "EndY": 144
+  },
+  {
+    "Index": 24,
+    "Scene": 8,
+    "BeginX": 86,
+    "BeginY": 7,
+    "EndX": 90,
+    "EndY": 11
+  },
+  {
+    "Index": 25,
+    "Scene": 8,
+    "BeginX": 186,
+    "BeginY": 175,
+    "EndX": 187,
+    "EndY": 176
+  },
+  {
+    "Index": 26,
+    "Scene": 7,
+    "BeginX": 17,
+    "BeginY": 23,
+    "EndX": 18,
+    "EndY": 24
+  },
+  {
+    "Index": 27,
+    "Scene": 5,
+    "BeginX": 20,
+    "BeginY": 212,
+    "EndX": 22,
+    "EndY": 219
+  },
+  {
+    "Index": 28,
+    "Scene": 5,
+    "BeginX": 203,
+    "BeginY": 36,
+    "EndX": 204,
+    "EndY": 37
+  },
+  {
+    "Index": 29,
+    "Scene": 4,
+    "BeginX": 73,
+    "BeginY": 104,
+    "EndX": 80,
+    "EndY": 107
+  },
+  {
+    "Index": 30,
+    "Scene": 6,
+    "BeginX": 217,
+    "BeginY": 202,
+    "EndX": 220,
+    "EndY": 207
+  },
+  {
+    "Index": 31,
+    "Scene": 2,
+    "BeginX": 135,
+    "BeginY": 106,
+    "EndX": 141,
+    "EndY": 111
+  },
+  {
+    "Index": 32,
+    "Scene": 11,
+    "BeginX": 6,
+    "BeginY": 86,
+    "EndX": 7,
+    "EndY": 87
+  },
+  {
+    "Index": 33,
+    "Scene": 15,
+    "BeginX": 225,
+    "BeginY": 42,
+    "EndX": 232,
+    "EndY": 46
+  },
+  {
+    "Index": 34,
+    "Scene": 16,
+    "BeginX": 148,
+    "BeginY": 423,
+    "EndX": 154,
+    "EndY": 428
+  },
+  {
+    "Index": 35,
+    "Scene": 17,
+    "BeginX": 10,
+    "BeginY": 170,
+    "EndX": 12,
+    "EndY": 172
+  },
+  {
+    "Index": 36,
+    "Scene": 17,
+    "BeginX": 195,
+    "BeginY": 361,
+    "EndX": 197,
+    "EndY": 363
+  },
+  {
+    "Index": 37,
+    "Scene": 17,
+    "BeginX": 257,
+    "BeginY": 11,
+    "EndX": 259,
+    "EndY": 13
+  },
+  {
+    "Index": 39,
+    "Scene": 21,
+    "BeginX": 34,
+    "BeginY": 81,
+    "EndX": 36,
+    "EndY": 83
+  },
+  {
+    "Index": 40,
+    "Scene": 201,
+    "BeginX": 67,
+    "BeginY": 8,
+    "EndX": 97,
+    "EndY": 20
+  },
+  {
+    "Index": 41,
+    "Scene": 301,
+    "BeginX": 115,
+    "BeginY": 118,
+    "EndX": 123,
+    "EndY": 126
+  },
+  {
+    "Index": 42,
+    "Scene": 302,
+    "BeginX": 115,
+    "BeginY": 118,
+    "EndX": 123,
+    "EndY": 126
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 100,
+    "Scene": 1,
+    "BeginX": 121,
+    "BeginY": 233,
+    "EndX": 123,
+    "EndY": 233
+  },
+  {
+    "Index": 101,
+    "Scene": 1,
+    "BeginX": 213,
+    "BeginY": 246,
+    "EndX": 217,
+    "EndY": 247
+  },
+  {
+    "Index": 102,
+    "Scene": 1,
+    "BeginX": 5,
+    "BeginY": 38,
+    "EndX": 5,
+    "EndY": 41
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 150,
+    "Scene": 1,
+    "BeginX": 122,
+    "BeginY": 232,
+    "EndX": 123,
+    "EndY": 232
+  },
+  {
+    "Index": 151,
+    "Scene": 1,
+    "BeginX": 214,
+    "BeginY": 244,
+    "EndX": 215,
+    "EndY": 244
+  },
+  {
+    "Index": 152,
+    "Scene": 1,
+    "BeginX": 6,
+    "BeginY": 40,
+    "EndX": 6,
+    "EndY": 41
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 200,
+    "Scene": 13,
+    "BeginX": 148,
+    "BeginY": 4,
+    "EndX": 155,
+    "EndY": 4
+  },
+  {
+    "Index": 201,
+    "Scene": 13,
+    "BeginX": 220,
+    "BeginY": 29,
+    "EndX": 225,
+    "EndY": 29
+  },
+  {
+    "Index": 202,
+    "Scene": 13,
+    "BeginX": 243,
+    "BeginY": 240,
+    "EndX": 243,
+    "EndY": 242
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 250,
+    "Scene": 13,
+    "BeginX": 148,
+    "BeginY": 5,
+    "EndX": 150,
+    "EndY": 5
+  },
+  {
+    "Index": 251,
+    "Scene": 13,
+    "BeginX": 222,
+    "BeginY": 26,
+    "EndX": 223,
+    "EndY": 26
+  },
+  {
+    "Index": 252,
+    "Scene": 13,
+    "BeginX": 242,
+    "BeginY": 240,
+    "EndX": 242,
+    "EndY": 241
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 300,
+    "Scene": 12,
+    "BeginX": 246,
+    "BeginY": 148,
+    "EndX": 246,
+    "EndY": 151
+  },
+  {
+    "Index": 301,
+    "Scene": 12,
+    "BeginX": 23,
+    "BeginY": 29,
+    "EndX": 23,
+    "EndY": 30
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 350,
+    "Scene": 12,
+    "BeginX": 234,
+    "BeginY": 149,
+    "EndX": 235,
+    "EndY": 149
+  },
+  {
+    "Index": 351,
+    "Scene": 12,
+    "BeginX": 24,
+    "BeginY": 29,
+    "EndX": 24,
+    "EndY": 30
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 400,
+    "Scene": 14,
+    "BeginX": 107,
+    "BeginY": 248,
+    "EndX": 110,
+    "EndY": 248
+  },
+  {
+    "Index": 401,
+    "Scene": 14,
+    "BeginX": 239,
+    "BeginY": 149,
+    "EndX": 239,
+    "EndY": 150
+  },
+  {
+    "Index": 402,
+    "Scene": 14,
+    "BeginX": 232,
+    "BeginY": 128,
+    "EndX": 233,
+    "EndY": 128
+  },
+  {
+    "Index": 403,
+    "Scene": 14,
+    "BeginX": 2,
+    "BeginY": 17,
+    "EndX": 2,
+    "EndY": 18
+  },
+  {
+    "Index": 404,
+    "Scene": 14,
+    "BeginX": 5,
+    "BeginY": 34,
+    "EndX": 6,
+    "EndY": 34
+  },
+  {
+    "Index": 405,
+    "Scene": 14,
+    "BeginX": 29,
+    "BeginY": 127,
+    "EndX": 30,
+    "EndY": 127
+  },
+  {
+    "Index": 406,
+    "Scene": 14,
+    "BeginX": 2,
+    "BeginY": 84,
+    "EndX": 2,
+    "EndY": 85
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 450,
+    "Scene": 14,
+    "BeginX": 108,
+    "BeginY": 247,
+    "EndX": 109,
+    "EndY": 247
+  },
+  {
+    "Index": 451,
+    "Scene": 14,
+    "BeginX": 240,
+    "BeginY": 149,
+    "EndX": 240,
+    "EndY": 150
+  },
+  {
+    "Index": 452,
+    "Scene": 14,
+    "BeginX": 232,
+    "BeginY": 127,
+    "EndX": 233,
+    "EndY": 127
+  },
+  {
+    "Index": 453,
+    "Scene": 14,
+    "BeginX": 3,
+    "BeginY": 17,
+    "EndX": 3,
+    "EndY": 18
+  },
+  {
+    "Index": 454,
+    "Scene": 14,
+    "BeginX": 5,
+    "BeginY": 33,
+    "EndX": 6,
+    "EndY": 33
+  },
+  {
+    "Index": 455,
+    "Scene": 14,
+    "BeginX": 29,
+    "BeginY": 126,
+    "EndX": 30,
+    "EndY": 126
+  },
+  {
+    "Index": 456,
+    "Scene": 14,
+    "BeginX": 3,
+    "BeginY": 84,
+    "EndX": 3,
+    "EndY": 85
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 500,
+    "Scene": 3,
+    "BeginX": 16,
+    "BeginY": 226,
+    "EndX": 16,
+    "EndY": 227
+  },
+  {
+    "Index": 501,
+    "Scene": 3,
+    "BeginX": 13,
+    "BeginY": 19,
+    "EndX": 13,
+    "EndY": 20
+  },
+  { "Index": 502, "Scene": 3, "BeginX": 9, "BeginY": 9, "EndX": 9, "EndY": 11 },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 550,
+    "Scene": 3,
+    "BeginX": 17,
+    "BeginY": 226,
+    "EndX": 17,
+    "EndY": 227
+  },
+  {
+    "Index": 551,
+    "Scene": 3,
+    "BeginX": 14,
+    "BeginY": 19,
+    "EndX": 14,
+    "EndY": 20
+  },
+  {
+    "Index": 552,
+    "Scene": 3,
+    "BeginX": 10,
+    "BeginY": 10,
+    "EndX": 10,
+    "EndY": 11
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 600,
+    "Scene": 11,
+    "BeginX": 164,
+    "BeginY": 4,
+    "EndX": 165,
+    "EndY": 4
+  },
+  {
+    "Index": 601,
+    "Scene": 11,
+    "BeginX": 192,
+    "BeginY": 6,
+    "EndX": 192,
+    "EndY": 7
+  },
+  {
+    "Index": 602,
+    "Scene": 11,
+    "BeginX": 166,
+    "BeginY": 164,
+    "EndX": 167,
+    "EndY": 166
+  },
+  {
+    "Index": 603,
+    "Scene": 11,
+    "BeginX": 133,
+    "BeginY": 245,
+    "EndX": 134,
+    "EndY": 245
+  },
+  {
+    "Index": 604,
+    "Scene": 11,
+    "BeginX": 133,
+    "BeginY": 135,
+    "EndX": 134,
+    "EndY": 135
+  },
+  {
+    "Index": 605,
+    "Scene": 11,
+    "BeginX": 132,
+    "BeginY": 16,
+    "EndX": 132,
+    "EndY": 17
+  },
+  { "Index": 606, "Scene": 11, "BeginX": 7, "BeginY": 6, "EndX": 7, "EndY": 7 },
+  {
+    "Index": 607,
+    "Scene": 11,
+    "BeginX": 17,
+    "BeginY": 249,
+    "EndX": 18,
+    "EndY": 249
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 650,
+    "Scene": 11,
+    "BeginX": 17,
+    "BeginY": 248,
+    "EndX": 18,
+    "EndY": 248
+  },
+  {
+    "Index": 651,
+    "Scene": 11,
+    "BeginX": 165,
+    "BeginY": 5,
+    "EndX": 165,
+    "EndY": 6
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 700,
+    "Scene": 9,
+    "BeginX": 250,
+    "BeginY": 39,
+    "EndX": 250,
+    "EndY": 43
+  },
+  {
+    "Index": 701,
+    "Scene": 9,
+    "BeginX": 6,
+    "BeginY": 199,
+    "EndX": 6,
+    "EndY": 201
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 750,
+    "Scene": 9,
+    "BeginX": 249,
+    "BeginY": 42,
+    "EndX": 249,
+    "EndY": 43
+  },
+  {
+    "Index": 751,
+    "Scene": 9,
+    "BeginX": 7,
+    "BeginY": 199,
+    "EndX": 7,
+    "EndY": 200
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 800,
+    "Scene": 8,
+    "BeginX": 74,
+    "BeginY": 9,
+    "EndX": 74,
+    "EndY": 12
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 850,
+    "Scene": 8,
+    "BeginX": 75,
+    "BeginY": 9,
+    "EndX": 75,
+    "EndY": 10
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 900,
+    "Scene": 7,
+    "BeginX": 17,
+    "BeginY": 12,
+    "EndX": 19,
+    "EndY": 12
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 950,
+    "Scene": 7,
+    "BeginX": 17,
+    "BeginY": 13,
+    "EndX": 18,
+    "EndY": 13
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1000,
+    "Scene": 5,
+    "BeginX": 17,
+    "BeginY": 222,
+    "EndX": 19,
+    "EndY": 222
+  },
+  {
+    "Index": 1001,
+    "Scene": 5,
+    "BeginX": 90,
+    "BeginY": 90,
+    "EndX": 90,
+    "EndY": 91
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1050,
+    "Scene": 5,
+    "BeginX": 17,
+    "BeginY": 221,
+    "EndX": 18,
+    "EndY": 221
+  },
+  {
+    "Index": 1051,
+    "Scene": 5,
+    "BeginX": 84,
+    "BeginY": 90,
+    "EndX": 84,
+    "EndY": 91
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1100,
+    "Scene": 4,
+    "BeginX": 69,
+    "BeginY": 104,
+    "EndX": 69,
+    "EndY": 107
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1150,
+    "Scene": 4,
+    "BeginX": 70,
+    "BeginY": 104,
+    "EndX": 70,
+    "EndY": 105
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1200,
+    "Scene": 6,
+    "BeginX": 223,
+    "BeginY": 215,
+    "EndX": 225,
+    "EndY": 215
+  },
+  {
+    "Index": 1201,
+    "Scene": 6,
+    "BeginX": 171,
+    "BeginY": 22,
+    "EndX": 171,
+    "EndY": 26
+  },
+  {
+    "Index": 1202,
+    "Scene": 6,
+    "BeginX": 332,
+    "BeginY": 127,
+    "EndX": 338,
+    "EndY": 128
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1251,
+    "Scene": 6,
+    "BeginX": 335,
+    "BeginY": 124,
+    "EndX": 336,
+    "EndY": 125
+  },
+  {
+    "Index": 1252,
+    "Scene": 104,
+    "BeginX": 150,
+    "BeginY": 20,
+    "EndX": 155,
+    "EndY": 23
+  },
+  {
+    "Index": 1253,
+    "Scene": 104,
+    "BeginX": 164,
+    "BeginY": 26,
+    "EndX": 166,
+    "EndY": 29
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1300,
+    "Scene": 2,
+    "BeginX": 139,
+    "BeginY": 124,
+    "EndX": 139,
+    "EndY": 125
+  },
+  {
+    "Index": 1301,
+    "Scene": 2,
+    "BeginX": 124,
+    "BeginY": 109,
+    "EndX": 124,
+    "EndY": 110
+  },
+  {
+    "Index": 1302,
+    "Scene": 2,
+    "BeginX": 139,
+    "BeginY": 95,
+    "EndX": 140,
+    "EndY": 95
+  },
+  {
+    "Index": 1303,
+    "Scene": 2,
+    "BeginX": 149,
+    "BeginY": 109,
+    "EndX": 150,
+    "EndY": 109
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1304,
+    "Scene": 2,
+    "BeginX": 185,
+    "BeginY": 188,
+    "EndX": 186,
+    "EndY": 189
+  },
+  {
+    "Index": 1305,
+    "Scene": 2,
+    "BeginX": 56,
+    "BeginY": 176,
+    "EndX": 56,
+    "EndY": 177
+  },
+  {
+    "Index": 1306,
+    "Scene": 2,
+    "BeginX": 68,
+    "BeginY": 51,
+    "EndX": 68,
+    "EndY": 52
+  },
+  {
+    "Index": 1307,
+    "Scene": 2,
+    "BeginX": 197,
+    "BeginY": 13,
+    "EndX": 197,
+    "EndY": 14
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1350,
+    "Scene": 2,
+    "BeginX": 189,
+    "BeginY": 190,
+    "EndX": 191,
+    "EndY": 192
+  },
+  {
+    "Index": 1351,
+    "Scene": 2,
+    "BeginX": 61,
+    "BeginY": 176,
+    "EndX": 63,
+    "EndY": 176
+  },
+  {
+    "Index": 1352,
+    "Scene": 2,
+    "BeginX": 64,
+    "BeginY": 47,
+    "EndX": 66,
+    "EndY": 49
+  },
+  {
+    "Index": 1353,
+    "Scene": 2,
+    "BeginX": 202,
+    "BeginY": 13,
+    "EndX": 205,
+    "EndY": 13
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1400,
+    "Scene": 10,
+    "BeginX": 245,
+    "BeginY": 34,
+    "EndX": 245,
+    "EndY": 37
+  },
+  {
+    "Index": 1401,
+    "Scene": 10,
+    "BeginX": 52,
+    "BeginY": 92,
+    "EndX": 54,
+    "EndY": 92
+  },
+  {
+    "Index": 1402,
+    "Scene": 10,
+    "BeginX": 2,
+    "BeginY": 246,
+    "EndX": 2,
+    "EndY": 247
+  },
+  {
+    "Index": 1403,
+    "Scene": 10,
+    "BeginX": 161,
+    "BeginY": 246,
+    "EndX": 163,
+    "EndY": 246
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1450,
+    "Scene": 10,
+    "BeginX": 244,
+    "BeginY": 34,
+    "EndX": 244,
+    "EndY": 35
+  },
+  {
+    "Index": 1451,
+    "Scene": 10,
+    "BeginX": 52,
+    "BeginY": 91,
+    "EndX": 54,
+    "EndY": 91
+  },
+  {
+    "Index": 1452,
+    "Scene": 10,
+    "BeginX": 4,
+    "BeginY": 246,
+    "EndX": 4,
+    "EndY": 247
+  },
+  {
+    "Index": 1453,
+    "Scene": 10,
+    "BeginX": 161,
+    "BeginY": 244,
+    "EndX": 163,
+    "EndY": 244
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1500,
+    "Scene": 100,
+    "BeginX": 14,
+    "BeginY": 9,
+    "EndX": 15,
+    "EndY": 10
+  },
+  {
+    "Index": 1501,
+    "Scene": 101,
+    "BeginX": 138,
+    "BeginY": 98,
+    "EndX": 139,
+    "EndY": 99
+  },
+  {
+    "Index": 1502,
+    "Scene": 101,
+    "BeginX": 71,
+    "BeginY": 94,
+    "EndX": 72,
+    "EndY": 95
+  },
+  {
+    "Index": 1503,
+    "Scene": 101,
+    "BeginX": 138,
+    "BeginY": 168,
+    "EndX": 139,
+    "EndY": 169
+  },
+  {
+    "Index": 1504,
+    "Scene": 101,
+    "BeginX": 68,
+    "BeginY": 157,
+    "EndX": 69,
+    "EndY": 158
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1601,
+    "Scene": 17,
+    "BeginX": 193,
+    "BeginY": 361,
+    "EndX": 194,
+    "EndY": 363
+  },
+  {
+    "Index": 1602,
+    "Scene": 17,
+    "BeginX": 156,
+    "BeginY": 371,
+    "EndX": 158,
+    "EndY": 372
+  },
+  {
+    "Index": 1603,
+    "Scene": 17,
+    "BeginX": 257,
+    "BeginY": 9,
+    "EndX": 259,
+    "EndY": 10
+  },
+  {
+    "Index": 1604,
+    "Scene": 17,
+    "BeginX": 197,
+    "BeginY": 49,
+    "EndX": 198,
+    "EndY": 51
+  },
+  {
+    "Index": 1605,
+    "Scene": 17,
+    "BeginX": 335,
+    "BeginY": 15,
+    "EndX": 336,
+    "EndY": 16
+  },
+  {
+    "Index": 1606,
+    "Scene": 17,
+    "BeginX": 358,
+    "BeginY": 10,
+    "EndX": 360,
+    "EndY": 10
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1651,
+    "Scene": 17,
+    "BeginX": 195,
+    "BeginY": 361,
+    "EndX": 195,
+    "EndY": 363
+  },
+  {
+    "Index": 1652,
+    "Scene": 17,
+    "BeginX": 156,
+    "BeginY": 374,
+    "EndX": 157,
+    "EndY": 375
+  },
+  {
+    "Index": 1653,
+    "Scene": 17,
+    "BeginX": 257,
+    "BeginY": 11,
+    "EndX": 259,
+    "EndY": 11
+  },
+  {
+    "Index": 1654,
+    "Scene": 17,
+    "BeginX": 199,
+    "BeginY": 49,
+    "EndX": 199,
+    "EndY": 51
+  },
+  {
+    "Index": 1655,
+    "Scene": 17,
+    "BeginX": 337,
+    "BeginY": 15,
+    "EndX": 337,
+    "EndY": 16
+  },
+  {
+    "Index": 1656,
+    "Scene": 17,
+    "BeginX": 358,
+    "BeginY": 11,
+    "EndX": 360,
+    "EndY": 11
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1701,
+    "Scene": 200,
+    "BeginX": 137,
+    "BeginY": 121,
+    "EndX": 138,
+    "EndY": 121
+  },
+  {
+    "Index": 1702,
+    "Scene": 200,
+    "BeginX": 165,
+    "BeginY": 130,
+    "EndX": 166,
+    "EndY": 130
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1801,
+    "Scene": 102,
+    "BeginX": 23,
+    "BeginY": 75,
+    "EndX": 31,
+    "EndY": 84
+  },
+  { "Index": 0, "Scene": 0, "BeginX": 0, "BeginY": 0, "EndX": 0, "EndY": 0 },
+  {
+    "Index": 1901,
+    "Scene": 103,
+    "BeginX": 40,
+    "BeginY": 78,
+    "EndX": 45,
+    "EndY": 148
+  },
+  {
+    "Index": 1902,
+    "Scene": 103,
+    "BeginX": 73,
+    "BeginY": 175,
+    "EndX": 138,
+    "EndY": 178
+  },
+  {
+    "Index": 1903,
+    "Scene": 103,
+    "BeginX": 163,
+    "BeginY": 81,
+    "EndX": 166,
+    "EndY": 143
+  },
+  {
+    "Index": 1904,
+    "Scene": 103,
+    "BeginX": 75,
+    "BeginY": 48,
+    "EndX": 138,
+    "EndY": 53
+  },
+  {
+    "Index": 44,
+    "Scene": 303,
+    "BeginX": 235,
+    "BeginY": 58,
+    "EndX": 236,
+    "EndY": 59
+  },
+  {
+    "Index": 1905,
+    "Scene": 6,
+    "BeginX": 174,
+    "BeginY": 23,
+    "EndX": 175,
+    "EndY": 25
+  }
+]

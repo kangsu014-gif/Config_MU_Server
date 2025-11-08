@@ -1,0 +1,437 @@
+<!-- == MU Online phiên bản SS6
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// https://www.facebook.com/nangva.gio.3532/
+//SDT : 0396523863
+// dev by Hà Nguyễn
+-->
+<InvasionManager Enabled="1">
+	<Invasion Index="0" Duration="1200" Effect="1" BossMonsterIndex="055" Name="Sự kiện Quỷ Xương">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="01" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="05" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="09" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="17" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="21" Minute="00" Second="0" />
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="0" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="55" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="1" Duration="1800" Effect="1" BossMonsterIndex="220" Name="Sự kiện Rồng Đỏ">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="02" Minute="30" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="30" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="10" Minute="30" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="30" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="30" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="22" Minute="30" Second="0" />
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="1" Stage="0" />
+			<Set Group="0" MapNumber="10" Stage="0" />
+			<Set Group="0" MapNumber="13" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="220" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="2" Duration="3600" Effect="3" BossMonsterIndex="220"
+		Name="Binh đoàn Hoàng Kim">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="02" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="04" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="08" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="10" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="20" Minute="00" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="22" Minute="00" Second="0" />
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="1" Stage="0" /> <!-- Lorencia -->
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="214" RegenType="0" RegenTime="0" /> <!-- Golden Budge Dragon -->
+			<Set Group="0" MonsterIndex="217" RegenType="0" RegenTime="0" /> <!-- Golden Titan -
+			Titan Vang -->
+			<Set Group="0" MonsterIndex="219" RegenType="0" RegenTime="0" /> <!-- Golden Soldier -
+			Chien binh Vang -->
+			<Set Group="0" MonsterIndex="453" RegenType="0" RegenTime="0" /> <!-- Golden Goblin - Yeu
+			Tinh Vang -->
+			<Set Group="0" MonsterIndex="221" RegenType="0" RegenTime="0" />	<!-- Golden Derkon -
+			Rong Vang -->
+			<Set Group="0" MonsterIndex="222" RegenType="0" RegenTime="0" /> <!-- Golden Lizard King
+			- Long Vuong Vang -->
+			<Set Group="0" MonsterIndex="3016" RegenType="0" RegenTime="0" /> <!-- Golden Vepar -
+			Nhan Ngu Vang -->
+			<Set Group="0" MonsterIndex="223" RegenType="0" RegenTime="0" /> <!-- Golden Tantalos -
+			Robo Vang -->
+			<Set Group="0" MonsterIndex="224" RegenType="0" RegenTime="0" /> <!-- Golden Wheel - Xe
+			Lu Vang -->
+			<Set Group="0" MonsterIndex="226" RegenType="0" RegenTime="0" /> <!-- Golden Dark Knight
+			- Kiem Si Vang -->
+			<Set Group="0" MonsterIndex="446" RegenType="0" RegenTime="0" /> <!-- Golden Devil - Ac
+			Quy Vang -->
+			<Set Group="0" MonsterIndex="447" RegenType="0" RegenTime="0" /> <!-- Golden Stone Golem
+			- Quy Da Vang -->
+			<Set Group="0" MonsterIndex="448" RegenType="0" RegenTime="0" /> <!-- Golden Crust - -->
+			<Set Group="0" MonsterIndex="449" RegenType="0" RegenTime="0" /> <!-- Golden Satyros -->
+			<Set Group="0" MonsterIndex="450" RegenType="0" RegenTime="0" /> <!-- Golden Twin Tail-->
+			<Set Group="0" MonsterIndex="451" RegenType="0" RegenTime="0" /> <!-- Golden Iron Knight
+			- Chien Binh-->
+			<Set Group="0" MonsterIndex="452" RegenType="0" RegenTime="0" /> <!-- Golden Napin-->
+			<Set Group="0" MonsterIndex="220" RegenType="0" RegenTime="0" /> <!-- Great Golden Dragon
+			- Kim Long-->
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="3" Duration="120 0" Effect="0" BossMonsterIndex="135"
+		Name="Binh đoàn Phù thuỷ">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="02" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="10" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="22" Minute="20" Second="0" />
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="2" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="135" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="136" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="137" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+
+	<Invasion Index="4" Duration="300" Effect="0" BossMonsterIndex="-1" Name="Sự kiện Thỏ Ngọc">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="03" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="07" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="11" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="15" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="23" Minute="45" Second="0" />
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="3" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="3068" RegenType="1" RegenTime="12" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="5" Duration="300" Effect="0" BossMonsterIndex="-1" Name="Sự kiện Mùa Hè">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="02" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="10" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="22" Minute="45" Second="0" />
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="1" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="3069" RegenType="1" RegenTime="12" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="6" Duration="600" Effect="0" BossMonsterIndex="-1" Name="Sự kiện năm mới">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="03" Minute="15" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="07" Minute="15" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="11" Minute="15" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="15" Minute="15" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="15" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="23" Minute="15" Second="0" />
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="7" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="365" RegenType="1" RegenTime="5000" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="7" Duration="1800" Effect="0" BossMonsterIndex="-1" Name="Sự kiện Medusa">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="20" Minute="15" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="45" Second="0" />
+
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="2" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="513" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="8" Duration="1800" Effect="0" BossMonsterIndex="136" Name="Sự kiện Boss Erohim">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="21" Minute="15" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="15" Second="0" />
+
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="1" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="136" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="9" Duration="1800" Effect="0" BossMonsterIndex="-1"
+		Name="Sự kiện Boss Kundun">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="21" Minute="45" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="45" Second="0" />
+
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="3" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="123" RegenType="0" RegenTime="5000" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="10" Duration="3600" Effect="0" BossMonsterIndex="-1" Name="Sự kiện Siêu Boss">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="22" Minute="15" Second="0" />
+
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="1" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="042" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="055" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="499" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="501" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="275" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="295" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="561" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="309" RegenType="0" RegenTime="0" />
+
+
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="11" Duration="1800" Effect="0" BossMonsterIndex="-1" Name="Sự kiện Quỷ Vương">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="30" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="11" Minute="50" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="05" Second="0" />
+
+		</Schedule>
+
+		<Group>
+			<Set Group="0" MapNumber="7" Stage="0" />
+		</Group>
+
+		<Monster>
+			<Set Group="0" MonsterIndex="309" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+</InvasionManager>
+
+<InvasionMessages>
+	<StartMessage>
+		<Message InvasionIndex="0" Message="Sự kiện Quỷ Xương ở Loren bắt đầu!" />
+		<Message InvasionIndex="1" Message="Rồng Đỏ xuất hiện!" />
+		<Message InvasionIndex="2" Message="Binh đoàn Hoàng Kim tấn công Lorencia!" />
+		<Message InvasionIndex="3" Message="Binh đoàn Phù thuỷ tấn công Davias!" />
+		<Message InvasionIndex="4" Message="Sự kiện Thỏ Ngọc ở atlans bắt đầu!" />
+		<Message InvasionIndex="5" Message="Sự kiện Mùa Hè ở Lorencia bắt đầu!" />
+		<Message InvasionIndex="6" Message="Sự kiện NewYear ở atlans bắt đầu!" />
+		<Message InvasionIndex="7" Message="Sự kiện Medusa ở Swamp bắt đầu!" />
+		<Message InvasionIndex="8" Message="Sự kiện Erohim ở Lorencia bắt đầu!" />
+		<Message InvasionIndex="9" Message="Sự kiện Kundun ở Lorencia bắt đầu!" />
+		<Message InvasionIndex="10" Message="Sự kiện Siêu Boss Dungeon3 bắt đầu!" />
+		<Message InvasionIndex="11" Message="Sự kiện Quỷ Vương bắt đầu!" />
+
+	</StartMessage>
+
+	<EndMessage>
+		<Message InvasionIndex="0" Message="Sự kiện Quỷ Xương kết thúc!" />
+		<Message InvasionIndex="1" Message="Sự kiện Rồng Đỏ kết thúc!" />
+		<Message InvasionIndex="2" Message="Sự kiện Boss Hoàng Kim kết thúc!" />
+		<Message InvasionIndex="3" Message="Binh đoàn Phù thuỷ đã rời đi!" />
+		<Message InvasionIndex="4" Message="Sự kiện Thỏ Ngọc kết thúc!" />
+		<Message InvasionIndex="5" Message="Sự kiện Mùa Hè kết thúc!" />
+		<Message InvasionIndex="6" Message="Sự kiện NewYear kết thúc!" />
+		<Message InvasionIndex="7" Message="Sự kiện Medusa kết thúc!" />
+		<Message InvasionIndex="8" Message="Sự kiện Erohim kết thúc!" />
+		<Message InvasionIndex="9" Message="Sự kiện Kundun kết thúc!" />
+		<Message InvasionIndex="10" Message="Sự kiện Siêu Boss kết thúc!" />
+		<Message InvasionIndex="11" Message="Sự kiện Quỷ Vương kết thúc!" />
+
+	</EndMessage>
+
+	<KillBossMessage>
+		<Message InvasionIndex="0" Message="Người chơi %s đã tiêu diệt Quỷ Xương!" />
+		<Message InvasionIndex="1" Message="Người chơi %s đã tiêu diệt Rồng Đỏ!" />
+		<Message InvasionIndex="2" Message="Người chơi %s đã tiêu diệt Kim Long!" />
+		<Message InvasionIndex="3" Message="Người chơi %s đã tiêu diệt Phù Thủy Trắng!" />
+		<Message InvasionIndex="4" Message="Người chơi %s đã tiêu diệt Thỏ Ngọc!" />
+		<Message InvasionIndex="5" Message="Người chơi %s đã tiêu diệt Mùa Hè!" />
+		<Message InvasionIndex="6" Message="Người chơi %s đã tiêu diệt NewYear!" />
+		<Message InvasionIndex="7" Message="Người chơi %s đã tiêu diệt Medusa!" />
+		<Message InvasionIndex="8" Message="Người chơi %s đã Erohim!" />
+		<Message InvasionIndex="9" Message="Người chơi %s đã Kundun!" />
+		<Message InvasionIndex="10" Message="Người chơi %s đã Siêu Boss!" />
+		<Message InvasionIndex="11" Message="Người chơi %s đã tiêu diệt Quỷ Vương!" />
+
+	</KillBossMessage>
+</InvasionMessages>
+
+<InvasionSpawn>
+	<Map Number="1" Name="Lorencia">
+		<!-- Skeleton King Invasion -->
+		<Spawn MonsterIndex="055" Distance="30" StartX="130" StartY="199" EndX="130" EndY="199"
+			Dir="-1" Count="01" Stage="0" />
+		<!-- Red Dragon Invasion -->
+		<Spawn MonsterIndex="220" Distance="30" StartX="37" StartY="96" EndX="240" EndY="240"
+			Dir="-1" Count="02" Stage="0" />
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="214" Distance="30" StartX="80" StartY="122" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="217" Distance="30" StartX="102" StartY="167" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="219" Distance="30" StartX="128" StartY="176" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="454" Distance="30" StartX="159" StartY="175" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="221" Distance="30" StartX="188" StartY="164" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="222" Distance="30" StartX="184" StartY="128" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="3016" Distance="30" StartX="171" StartY="93" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="223" Distance="30" StartX="140" StartY="76" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="224" Distance="30" StartX="97" StartY="87" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="226" Distance="30" StartX="81" StartY="112" EndX="043" EndY="125"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="447" Distance="30" StartX="89" StartY="128" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="448" Distance="30" StartX="92" StartY="163" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="449" Distance="30" StartX="105" StartY="175" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="450" Distance="30" StartX="129" StartY="183" EndX="229" EndY="065"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="451" Distance="30" StartX="155" StartY="170" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="452" Distance="30" StartX="172" StartY="176" EndX="229" EndY="065"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="453" Distance="30" StartX="192" StartY="140" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="220" Distance="30" StartX="177" StartY="108" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+		<!-- Erohim Invasion -->
+		<Spawn MonsterIndex="136" Distance="30" StartX="72" StartY="123" EndX="27" EndY="054"
+			Dir="-1" Count="01" Stage="0" />
+
+		<!-- Summer Invasion -->
+		<Spawn MonsterIndex="3069" Distance="3" StartX="21" StartY="44" EndX="21" EndY="44" Dir="-1"
+			Count="5" Stage="0" />
+		<Spawn MonsterIndex="3069" Distance="3" StartX="43" StartY="36" EndX="43" EndY="36" Dir="-1"
+			Count="5" Stage="0" />
+		<Spawn MonsterIndex="3069" Distance="3" StartX="49" StartY="21" EndX="49" EndY="21" Dir="-1"
+			Count="5" Stage="0" />
+		<Spawn MonsterIndex="3069" Distance="3" StartX="62" StartY="11" EndX="58" EndY="15" Dir="-1"
+			Count="5" Stage="0" />
+
+	</Map>
+	<Map Number="10" Name="Devias">
+		<!-- Red Dragon Invasion -->
+		<Spawn MonsterIndex="220" Distance="30" StartX="91" StartY="189" EndX="240" EndY="240"
+			Dir="-1" Count="02" Stage="0" />
+		<!-- White Wizard Invasion -->
+		<Spawn MonsterIndex="135" Distance="10" StartX="037" StartY="017" EndX="037" EndY="017"
+			Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="136" Distance="10" StartX="037" StartY="017" EndX="037" EndY="017"
+			Dir="-1" Count="10" Stage="0" />
+		<Spawn MonsterIndex="137" Distance="10" StartX="037" StartY="017" EndX="037" EndY="017"
+			Dir="-1" Count="10" Stage="0" />
+	</Map>
+
+	<Map Number="13" Name="Noria">
+		<!-- Red Dragon Invasion -->
+		<Spawn MonsterIndex="220" Distance="30" StartX="109" StartY="106" EndX="240" EndY="240"
+			Dir="-1" Count="02" Stage="0" />
+	</Map>
+	<Map Number="3" Name="Atlans">
+		<!-- Rabbits Invasion -->
+		<Spawn MonsterIndex="3068" Distance="3" StartX="21" StartY="44" EndX="021" EndY="044"
+			Dir="-1" Count="5" Stage="0" />
+		<Spawn MonsterIndex="3068" Distance="3" StartX="43" StartY="36" EndX="043" EndY="036"
+			Dir="-1" Count="5" Stage="0" />
+		<Spawn MonsterIndex="3068" Distance="3" StartX="49" StartY="21" EndX="049" EndY="021"
+			Dir="-1" Count="5" Stage="0" />
+		<Spawn MonsterIndex="3068" Distance="3" StartX="62" StartY="11" EndX="062" EndY="011"
+			Dir="-1" Count="5" Stage="0" />
+
+		<!-- NewYear Invasion -->
+		<Spawn MonsterIndex="365" Distance="3" StartX="021" StartY="044" EndX="021" EndY="044"
+			Dir="-1" Count="5" Stage="0" />
+		<Spawn MonsterIndex="365" Distance="3" StartX="043" StartY="036" EndX="043" EndY="036"
+			Dir="-1" Count="5" Stage="0" />
+		<Spawn MonsterIndex="365" Distance="3" StartX="049" StartY="021" EndX="049" EndY="021"
+			Dir="-1" Count="5" Stage="0" />
+		<Spawn MonsterIndex="365" Distance="3" StartX="062" StartY="011" EndX="062" EndY="011"
+			Dir="-1" Count="5" Stage="0" />
+
+		<!-- Kundun Invasion -->
+		<Spawn MonsterIndex="123" Distance="30" StartX="217" StartY="93" EndX="240" EndY="240"
+			Dir="-1" Count="01" Stage="0" />
+
+		<!-- Hell Maine Invasion -->
+		<Spawn MonsterIndex="309" Distance="30" StartX="027" StartY="054" EndX="027" EndY="054"
+			Dir="-1" Count="01" Stage="0" />
+	</Map>
+	<Map Number="2" Name="Swam of Calmness">
+		<!-- Medusa Invasion -->
+		<Spawn MonsterIndex="513" Distance="30" StartX="29" StartY="21" EndX="175" EndY="219"
+			Dir="-1" Count="1" Stage="0" />
+	</Map>
+</InvasionSpawn>
